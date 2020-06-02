@@ -14,6 +14,6 @@ end}
   end
 
   def add_parcel_bundler
-    `yarn add parcel-bundler`
+    `npm i --save parcel-bundler`
   end
 end
